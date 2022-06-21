@@ -6,3 +6,6 @@ Author URI: https://melinweb.fr/
 Description: Thème réalisé pour le comité d'entreprise de Villeurbanne.
 Version: 1.0
 */
+
+@import url("./footer.css");
+@import url("./header.css");

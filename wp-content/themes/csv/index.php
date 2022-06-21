@@ -10,3 +10,5 @@
     <div><?php the_content(); ?></div>
   <?php endwhile; ?>
 <?php endif; ?>
+
+<?php get_footer(); ?>
